@@ -11,11 +11,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-      "php": "^7.4"
+      "php": "^8.1"
     },
     "autoload": {
       "psr-4": {
-        "Imtiaze\\Contact\\ ": "src/"
+        "Imtiaze\\Contact\\": "src/"
       }
     }
   }
